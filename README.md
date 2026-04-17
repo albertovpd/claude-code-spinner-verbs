@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,945 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **1,980 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,760 additional verbs** across 88 themed categories.
+**185 built-in defaults** + **1,795 additional verbs** across 89 themed categories.
 
 ## How to Add Verbs
 
@@ -91,6 +91,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [The Office (12)](#the-office-12)
 - [Onomatopoeia (12)](#onomatopoeia-12)
 - [Paleontology (11)](#paleontology-11)
+- [Pharma (35)](#pharma-35)
 - [Photography (11)](#photography-11)
 - [Pirate / Nautical (11)](#pirate--nautical-11)
 - [Pokemon (11)](#pokemon-11)
@@ -1867,6 +1868,49 @@ Hard-boiled debugging — film noir meets software development.
 | Skull-mounting |
 
 
+### Pharma (35)
+
+Silly spinner lines for anyone who thinks in SKUs, salts, and package inserts.
+
+| Verb |
+|------|
+| Amoxicilining |
+| Injecting amoxicillin |
+| Clavulanating cautiously |
+| Metformining the inevitable |
+| Ibuprofening the ache away |
+| Paracetamoling gently |
+| Omeprazoling the burn |
+| Atorvastatining responsibly |
+| Azithromycining in five days flat |
+| Doxycyclining the sun away |
+| Levofloxacining the fine print |
+| Losartan-ing the pressure down |
+| Metoprolol-ing into flow state |
+| Insulin-pen clicking |
+| Salbutamoling for dear life |
+| Prednisoloning with gusto |
+| Furosemiding like a fountain |
+| Spironolactone spiraling |
+| Warfarin-whispering |
+| Digoxin-dosing delicately |
+| Pharmaco-kineticking |
+| Pharmaco-vigilancing |
+| Bioequivalence brooding |
+| Cold-chain vibing |
+| Excipient existentializing |
+| Placebo-arm balancing |
+| Patent-cliff parachuting |
+| Double-blinding beautifully |
+| Lot-expiry sweating |
+| Tablet-coating tenderly |
+| Syrup-shaking ceremoniously |
+| IV-push pondering |
+| Stat-dosing dramatically |
+| Renally-adjusting slightly |
+| PRN procrastinating |
+
+
 ### Photography (11)
 
 | Verb |
@@ -2434,4 +2478,5 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Tracer bullet: does it hit the target? |
 | Are you programming by coincidence? |
 | Refactor commits separate from feature commits? |
+
 
